@@ -94,7 +94,7 @@ analytics:
 # Site Author
 author:
   name             : "Nathan Davis"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/image/profilePicture.jpg"# path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Graduate of NCSU's Electrical Engineering, BS program. Interested in Computer Vision, Data Science, Embedded Hardware & Software, Machine Learning and Software Development."
   location         : "Raleigh, NC"
   email            :
